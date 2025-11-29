@@ -21,7 +21,7 @@ print(f"Je m'appelle {nom} et j'ai {age} ans maintenant.")
 nom = "David"
 age = 28
 taille = 1.76
-est_etudiant = False
+est_etudiant =False
 
 # Afficher les valeurs des quatres variables
 print(f"Nom: {nom}")
